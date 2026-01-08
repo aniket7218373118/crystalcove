@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Crystal Ring",
+    "price": 1499,
+    "image": "images/products/ring1.jpeg"
+  },
+  {
+    "title": "Crystal Necklace",
+    "price": 2299,
+    "image": "images/products/ring2.jpeg"
+  }
+]
